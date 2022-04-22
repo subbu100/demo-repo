@@ -1,4 +1,8 @@
 # demo-repo
+
 Demo for Github
+
 ## hello
-This is my First Repo
+
+This is my First Repository
+git statys
